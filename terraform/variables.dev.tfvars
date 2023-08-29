@@ -20,7 +20,7 @@ tags_vpc = {
 
 tags_ec2 = {
     Name = "ec2_base2"
-    Entorno = "desarrollo2"
+    Entorno = "calidad2"
   }
 
 tags_public_subnet1 = {
