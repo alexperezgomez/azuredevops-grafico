@@ -48,7 +48,7 @@ tags_private_subnet2 = {
 # Variables de entrada para creacion de la instancia EC2
 
 ami= "ami-0715c1897453cabd1"
-type_instance = "t3.micro"
+type_instance = "t3.medium"
 volume_size = "8"
 volume_type = "gp2"
 
